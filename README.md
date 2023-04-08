@@ -1,6 +1,6 @@
 # keyspace-Up
 Program to increase the keyspace of a Bitcoin Public Key<p>
-Somewhat useless program that generates a public key of increased keyspace. Example if the public key is in keyspace 10 and you input public key increase 22 <p>keyspace the new public key generated will be found in Keyspace 32.<p>
+Somewhat useless program that generates a public key of increased keyspace. Example if the public key is in keyspace 10 and you input public key increase 4 <p>keyspace the new public key generated will be found in Keyspace 14.<p>
 modules needed fastecdsa, binascii, Point<p>
 tested with python39<p>
 output to increased.txt<p>

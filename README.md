@@ -7,7 +7,7 @@ output to increased.txt<p>
 Example python39 keyspace_up.py<p>
 Enter the public key in hexadecimal format: 03a7a4c30291ac1db24b4ab00c442aa832f7794b5a0959bec6e8d7fee802289dcd   (keyspace 10)<p>
 Enter the reduction amount: 4<p>
-increased.txt 037dbbd8083d60c9349551a3f42ef560c3807fe2bf51d7fd69dfce62549a5f1277  (keyspace 14)<p>
+increased.txt output 037dbbd8083d60c9349551a3f42ef560c3807fe2bf51d7fd69dfce62549a5f1277  (keyspace 14)<p>
 
   Mode xpoint<p>
 [+] Threads : 3<p>

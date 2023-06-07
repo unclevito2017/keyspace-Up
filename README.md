@@ -28,6 +28,6 @@ Base key: 100000001 thread 1<p>
 
 HIT!! Private Key: 2020<p>  
 pubkey: 037dbbd8083d60c9349551a3f42ef560c3807fe2bf51d7fd69dfce62549a5f1277<p>
-to get back to the original private key you divide 2020 Hex by 4 power of 2 <p>
-2020 hex = 8224 decimal and 4 power 2 = 16<p>  8224/16= 514 or 202 hex <p>
+to get back to the original private key you divide 2020 Hex by 2 power of 4 <p>
+2020 hex = 8224 decimal and 2 power 4 = 16<p>  8224/16= 514 or 202 hex <p>
 Donations: bc1qus09g0n5jwg79gje76zxqmzt3gpw80dcqspsmm
